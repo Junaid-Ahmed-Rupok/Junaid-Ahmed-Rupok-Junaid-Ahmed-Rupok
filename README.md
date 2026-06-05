@@ -40,10 +40,6 @@
 
 ## ◈ &nbsp; About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 I build **statistically rigorous ML systems** at the intersection of machine learning and governance analytics — developing validated frameworks for computational social science and causal inference in observational studies.
 
 - 🏆 **Best Research Paper Award** — APMEE 2025
@@ -51,15 +47,6 @@ I build **statistically rigorous ML systems** at the intersection of machine lea
 - 🤗 Fine-tuned **DistilBERT** for sentiment analysis — 87% accuracy
 - 📚 Published poet · Former Radio Jockey (COVID-19 pandemic storytelling)
 - 📍 Dhaka, Bangladesh &nbsp;·&nbsp; IELTS 7.0
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Junaid-Ahmed-Rupok&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=7fb3d3&icon_color=7fb3d3&text_color=c9d1d9&ring_color=2c5364" width="100%" />
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -161,7 +148,7 @@ I build **statistically rigorous ML systems** at the intersection of machine lea
 
 | Degree | Institution | Result |
 |:---|:---|:---:|
-| B.Sc. CSE | RUET, Bangladesh | 3.08 / 4.00 |
+| B.Sc. in CSE | RUET, Bangladesh | 3.08 / 4.00 |
 | HSC | Pabna Cadet College | **5.00 / 5.00** |
 | SSC | Pabna Cadet College | **5.00 / 5.00** |
 
@@ -188,20 +175,33 @@ I build **statistically rigorous ML systems** at the intersection of machine lea
 
 <br/>
 
-## ◈ &nbsp; GitHub Activity
+## ◈ &nbsp; Currently Working On
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid-Ahmed-Rupok&theme=transparent&hide_border=true&background=0D1117&stroke=2c5364&ring=7fb3d3&fire=7fb3d3&currStreakLabel=7fb3d3&sideLabels=c9d1d9&dates=6e7681" width="56%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-Ahmed-Rupok&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=7fb3d3&text_color=c9d1d9" width="38%" />
+| Focus Area | Description |
+|:---|:---|
+| 📐 **RMA-BO Manuscript** | Finalizing regret-minimizing adaptive Bayesian optimization paper for journal submission |
+| ⚖️ **Fairness-Aware Crime ML** | Refining class imbalance methodology with equity-constrained evaluation metrics |
+| 🌿 **Environmental Livability** | Bootstrap-retrained SHAP analysis with statistically-constrained Pareto counterfactuals |
+| 🎓 **PhD Applications** | Targeting programs in Computational Science, ML, and Governance Analytics |
 
 </div>
 
 <br/>
 
+---
+
+<br/>
+
+## ◈ &nbsp; Research Interests
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Junaid-Ahmed-Rupok&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+`Computational Social Science` &nbsp;·&nbsp; `Causal Inference` &nbsp;·&nbsp; `Governance Analytics`
+&nbsp;·&nbsp; `Statistical Validity in ML` &nbsp;·&nbsp; `Bayesian Methods` &nbsp;·&nbsp; `Development Economics`
+&nbsp;·&nbsp; `Measure-Theoretic Probability` &nbsp;·&nbsp; `Robust Statistical Inference`
+
 </div>
 
 <br/>
