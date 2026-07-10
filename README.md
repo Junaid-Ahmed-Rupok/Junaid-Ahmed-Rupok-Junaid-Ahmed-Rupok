@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="30"/> <b>Hi, I'm Junaid</b>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sarder%20Junaid%20Ahmed&fontSize=52&fontColor=e2f0f9&fontAlignY=38&desc=ML%20Researcher%20%7C%20PhD%20Applicant%20%7C%20Computational%20Science&descAlignY=60&descColor=7fb3d3&animation=fadeIn" />
 
 <a href="https://github.com/Junaid-Ahmed-Rupok"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7fb3d3&labelColor=0d1117" /></a>
@@ -30,7 +32,7 @@
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🧠 What I Actually Do
 
@@ -42,7 +44,7 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🛠️ Stuff I Built (that people actually use)
 
@@ -62,7 +64,7 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 📚 Papers (the receipts)
 
@@ -97,7 +99,19 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
+
+## 🐍 Live from GitHub
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/Junaid-Ahmed-Rupok/output/github-contribution-grid-snake.svg" alt="A snake animation eating through my contribution graph" />
+
+<sub>Updates daily · powered by a GitHub Action, not a static image</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🧰 Tech I Reach For
 
@@ -120,7 +134,7 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🔬 Day Job vs. Side Quests
 
@@ -132,7 +146,7 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 ## 🎙️ Before the Math
 
@@ -140,7 +154,7 @@ Before the p-values, there was a radio mic. I hosted a weekly show during COVID 
 
 <br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=3&section=header" width="100%"/>
 
 <div align="center">
 
