@@ -176,10 +176,6 @@ At the Young Learners' Research Lab, I led hypothesis-testing pipelines (Mann-Wh
 
 ## ◈ &nbsp; Education & Honors
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 **🎓 Education**
 
 | Degree | Institution | Result |
@@ -188,11 +184,9 @@ At the Young Learners' Research Lab, I led hypothesis-testing pipelines (Mann-Wh
 | HSC | Pabna Cadet College | **5.00 / 5.00** |
 | SSC | Pabna Cadet College | **5.00 / 5.00** |
 
-*IELTS Overall: 7.0 (no band < 6.5)*
-*Thesis Grade: A+ · Seminar Grade: A+*
+*IELTS Overall: 7.0 (no band < 6.5) &nbsp;·&nbsp; Thesis Grade: A+ &nbsp;·&nbsp; Seminar Grade: A+*
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 **🏅 Honors & Awards**
 
@@ -203,10 +197,6 @@ At the Young Learners' Research Lab, I led hypothesis-testing pipelines (Mann-Wh
 - 🎖️ Talentpool Scholarship — National Merit (2013, 2009)
 - 🏅 Principal's Prize — Outstanding Performance (2013)
 - ✏️ Best Speller Award (×2) — Pabna Cadet College (2016–2018)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -240,7 +230,7 @@ At the Young Learners' Research Lab, I led hypothesis-testing pipelines (Mann-Wh
 | 🌿 **Environmental Livability** | Bootstrap-retrained SHAP analysis with statistically-constrained Pareto counterfactuals |
 | 🩺 **Mammography Synthesis** | Segmentation-guided diffusion with density decoupling and mask ablation |
 | 🗺️ **DeepEnMap** | Multi-modal deep learning for ordinal energy poverty risk mapping |
-
+| 🎓 **PhD Applications** | Targeting programs in Computational Science, ML, and Governance Analytics |
 
 </div>
 
