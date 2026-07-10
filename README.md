@@ -240,7 +240,7 @@ At the Young Learners' Research Lab, I led hypothesis-testing pipelines (Mann-Wh
 | 🌿 **Environmental Livability** | Bootstrap-retrained SHAP analysis with statistically-constrained Pareto counterfactuals |
 | 🩺 **Mammography Synthesis** | Segmentation-guided diffusion with density decoupling and mask ablation |
 | 🗺️ **DeepEnMap** | Multi-modal deep learning for ordinal energy poverty risk mapping |
-| 🎓 **PhD Applications** | Targeting programs in Computational Science, ML, and Governance Analytics |
+
 
 </div>
 
