@@ -66,32 +66,32 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 ## 📚 Papers (the receipts)
 
-<details>
-<summary><b>🏆 Award-winning work</b> — click to expand</summary>
+<details open>
+<summary><b>🏆 Award-winning work</b></summary>
 <br/>
 
-- **CF-EGAT** — Causal fairness-aware GNN for environmental livability classification · *SPECTRA 2026* · 🏆 **1st Best Paper** · [DOI](https://doi.org/10.5281/zenodo.21195761)
-- **Multi-Dimensional Statistical Similarity for Governance Classification** · *APMEE 2025* · 🏆 **Best Research Paper**
+- Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"CF-EGAT: A Causal Fairness-Aware Equity Graph Attention Network for Country-Level Environmental Livability Classification."** *Symposium on Photonics, Emerging Computational Technologies, Research & AI-Data Science (SPECTRA 2026).* Oral Presentation. 🏆 **1st Best Paper Award.** [DOI: 10.5281/zenodo.21195761](https://doi.org/10.5281/zenodo.21195761)
+- Ahmed, S.J. (2025). **"Multi-Dimensional Statistical Similarity for Governance Classification: Beyond Arbitrary Thresholds in Comparative Politics."** *6th Annual Paper Meet Electrical Engineering Division (APMEE 2025).* Oral Presentation. 🏆 **Best Research Paper Award.**
 
 </details>
 
-<details>
+<details open>
 <summary><b>📄 Journal & conference publications</b></summary>
 <br/>
 
-- Ahmed et al. (2026). *Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance.* Journal of Machine Learning and Applications, 2(1), 9–17. [DOI](https://doi.org/10.61577/jmla.2026.100002)
-- Ahmed et al. (2026). *RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization.* SPECTRA 2026. [DOI](https://doi.org/10.5281/zenodo.21194394)
+- Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *Journal of Machine Learning and Applications*, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
+- Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."** *SPECTRA 2026.* Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
 
 </details>
 
-<details>
-<summary><b>🔬 Currently under review</b></summary>
+<details open>
+<summary><b>🔬 Manuscripts under review</b></summary>
 <br/>
 
-- *Environmental Livability Assessment via Bootstrap-Retrained SHAP & Pareto Counterfactuals* — IEEE SPICSCON 2026
-- *DeepEnMap* — ordinal energy-poverty risk mapping — IEMIS 2026 (Springer LNNS)
-- *Segmentation-Guided Diffusion for Mammography Synthesis* — IEMIS 2026 (Springer LNNS)
-- *FAI: Feature-Wise Adaptive Imputation* — ICISET 2026 (IEEE Xplore)
+- Ahmed, S.J., Islam Nahian, M.T., Kwoshik, M.H.R., & Nakib, F.N. (2025). **"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."** Under review at IEEE SPICSCON 2026.
+- Ahmed, S.J. (2026). **"DeepEnMap: A Multi-Modal Deep Learning Framework with Distance-Penalized Cross-Entropy for Ordinal Energy Poverty Risk Mapping."** Under review at IEMIS 2026 (Springer LNNS Series).
+- Ahmed, S.J. (2026). **"Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study."** Under review at IEMIS 2026 (Springer LNNS Series).
+- Ahmed, S.J. (2026). **"FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection."** Under review at ICISET 2026 (IEEE Xplore).
 
 </details>
 
