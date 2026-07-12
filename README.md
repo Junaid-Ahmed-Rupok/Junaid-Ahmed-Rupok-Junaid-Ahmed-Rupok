@@ -27,7 +27,7 @@
 | 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
 | 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 · Best Paper @ APMEE 2025 |
 | 🛠️ **Built** | StatsPro · ReproHub · a citation-obsessed RAG chatbot |
-| 📝 **Publishing** | 1 journal article, 3 conference papers, 4 more in review |
+| 📝 **Publishing** | 1 journal article, 1 invited book chapter, 3 conference papers, 4 more in review |
 | 🎓 **Next** | Hunting for a PhD in Computational Science / ML / Governance Analytics |
 
 <br/>
@@ -83,6 +83,14 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 - Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *Journal of Machine Learning and Applications*, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
 - Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."** *SPECTRA 2026.* Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
+
+</details>
+
+<details open>
+<summary><b>📖 Book chapter (invited)</b></summary>
+<br/>
+
+- Ahmed, S.J. (2026). **"Generative AI and Mathematical Optimization for Football Match Outcome Prediction: A Comparative Study of CatBoost, XGBoost, and TabNet with Kelly Index Stratification."** In: Lahby, M. (ed.), *Generative AI and Mathematical Optimization for Performance and Innovation in Football*, Springer Optimization and Its Applications. Springer, Cham. *(Invited Chapter, Under Review)*
 
 </details>
 
