@@ -27,7 +27,7 @@
 | 🎯 **Doing** | Making ML *statistically honest* — causal inference, fairness, uncertainty, no p-hacking |
 | 🏆 **Won** | 1st Best Paper @ SPECTRA 2026 · Best Paper @ APMEE 2025 |
 | 🛠️ **Built** | StatsPro · ReproHub · a citation-obsessed RAG chatbot |
-| 📝 **Publishing** | 1 journal article, 1 invited book chapter, 3 conference papers, 4 more in review |
+| 📝 **Publishing** | 1 journal article, 1 invited book chapter, 4 conference papers, 3 more in review |
 | 🎓 **Next** | Hunting for a PhD in Computational Science / ML / Governance Analytics |
 
 <br/>
@@ -83,6 +83,7 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 
 - Ahmed, S.J., Kwoshik, M.H.R., & Islam Nahian, M.T. (2026). **"Machine Learning for Crime Classification: A Fairness-Aware Approach to Class Imbalance."** *Journal of Machine Learning and Applications*, 2(1), 9–17. [DOI: 10.61577/jmla.2026.100002](https://doi.org/10.61577/jmla.2026.100002)
 - Ahmed, S.J., Islam Nahian, M.T., & Kwoshik, M.H.R. (2026). **"RMA-BO: Regret-Minimizing Adaptive Bayesian Optimization."** *SPECTRA 2026.* Oral Presentation. [DOI: 10.5281/zenodo.21194394](https://doi.org/10.5281/zenodo.21194394)
+- Ahmed, S.J., Islam Nahian, M.T., Kwoshik, M.H.R., & Nakib, F.N. (2026). **"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."** *5th IEEE International Conference on Signal Processing, Information, Communication and Systems (SPICSCON 2026).* IEEE Xplore. **Accepted for Presentation.**
 
 </details>
 
@@ -98,7 +99,6 @@ That means: causal inference instead of correlation-shrugging, uncertainty quant
 <summary><b>🔬 Manuscripts under review</b></summary>
 <br/>
 
-- Ahmed, S.J., Islam Nahian, M.T., Kwoshik, M.H.R., & Nakib, F.N. (2025). **"Environmental Livability Assessment via Adaptive Bootstrap-Retrained SHAP and Statistically-Constrained Pareto Counterfactuals: A Cross-National Analysis."** Under review at IEEE SPICSCON 2026.
 - Ahmed, S.J. (2026). **"DeepEnMap: A Multi-Modal Deep Learning Framework with Distance-Penalized Cross-Entropy for Ordinal Energy Poverty Risk Mapping."** Under review at IEMIS 2026 (Springer LNNS Series).
 - Ahmed, S.J. (2026). **"Density-Decoupled, Mask-Ablated Segmentation-Guided Diffusion for Controllable Mammography Synthesis: A Preliminary Study."** Under review at IEMIS 2026 (Springer LNNS Series).
 - Ahmed, S.J. (2026). **"FAI: Feature-Wise Adaptive Imputation via Downstream-Aware Method Selection."** Under review at ICISET 2026 (IEEE Xplore).
